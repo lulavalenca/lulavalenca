@@ -25,6 +25,7 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 ---
 
 ## 🚀 Projetos em Destaque  
+
 ### 🧑‍💻 Backend com Python  
 ✨ **API REST com FastAPI e PostgreSQL** → Autenticação JWT e CRUD completo.  
 ✨ **Sistema Web com Django** → Painel administrativo para gestão de conteúdos.  
@@ -37,6 +38,20 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 
 ---
 
+## 🌟 Projetos em destaque (cards)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=FastApi_Zero&theme=radical" alt="FastAPI - destaque" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=DjangoProject&theme=radical" alt="Django - destaque" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=flask-crud-app&theme=radical" alt="Flask - destaque" />
+</p>
+
+<!-- Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lulavalenca&color=8A2BE2" alt="profile views" />
+</p>
+
+---
+
 ## ⚡ Skills em Ação  
 - 🐍 **Backend Python** → APIs e sistemas escaláveis  
 - ☁️ **Cloud & Infraestrutura** → AWS, Azure e GCP  
@@ -45,10 +60,23 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 
 ---
 
-## 🌱 O que estou aprendendo agora  
-- 🧭 **Kubernetes** e microsserviços em larga escala  
-- 🌍 **Multi-cloud** (AWS, Azure, GCP)  
-- 📈 **Observabilidade** avançada (Prometheus + Grafana)  
+## 🎓 Certificações & Estudos  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform-844FBA?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-Advanced%20User-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🛤️ Roadmap de Aprendizado  
+- [x] FastAPI + PostgreSQL  
+- [x] Django + Painel Administrativo  
+- [x] Flask + Templates  
+- [x] Docker + Compose para microserviços  
+- [ ] Kubernetes em produção  
+- [ ] CI/CD avançado com GitHub Actions  
+- [ ] Certificação AWS Architect  
 
 ---
 
@@ -57,6 +85,7 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
   <img src="https://streak-stats.demolab.com?user=lulavalenca&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=lulavalenca&show_icons=true&theme=radical&count_private=true" height="180"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lulavalenca&theme=react-dark&bg_color=0D1117&hide_border=true&line=8A2BE2&color=6C63FF" width="100%"/>
 </p>
@@ -70,6 +99,13 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-3776AB?style=for-the-badge&logo=cloud" />
   <img src="https://img.shields.io/badge/Pythonista-Backend%20Wizard-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
+
+---
+
+## 🌱 O que estou aprendendo agora  
+- 🧭 **Kubernetes** e microsserviços em larga escala  
+- 🌍 **Multi-cloud** (AWS, Azure, GCP)  
+- 📈 **Observabilidade** avançada (Prometheus + Grafana)  
 
 ---
 
