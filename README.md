@@ -47,6 +47,7 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 </p>
 
 
+
 <!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lulavalenca&color=8A2BE2" />
