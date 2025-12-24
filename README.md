@@ -22,6 +22,7 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
   <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,docker,terraform,ansible,kubernetes,aws,git" />
 </p>
 
+
 ---
 
 ## 🚀 Projetos em Destaque  
@@ -40,14 +41,15 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 
 ## 🌟 Projetos em destaque (cards)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=FastApi_Zero&theme=radical" alt="FastAPI - destaque" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=DjangoProject&theme=radical" alt="Django - destaque" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=flask-crud-app&theme=radical" alt="Flask - destaque" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=FastApi_Zero&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=DjangoProject&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulavalenca&repo=flask-crud-app&theme=radical&cache_seconds=86400" />
 </p>
+
 
 <!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lulavalenca&color=8A2BE2" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lulavalenca&color=8A2BE2" />
 </p>
 
 ---
@@ -82,13 +84,14 @@ Minha missão é unir **Python (Flask, FastAPI, Django)** com práticas modernas
 
 ## 📊 Estatísticas  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lulavalenca&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lulavalenca&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=lulavalenca&theme=radical&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lulavalenca&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lulavalenca&theme=react-dark&bg_color=0D1117&hide_border=true&line=8A2BE2&color=6C63FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lulavalenca&theme=github-dark&hide_border=true" width="100%"/>
 </p>
+
 
 ---
 
